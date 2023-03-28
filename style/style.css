@@ -1,0 +1,14 @@
+.banner-img1{
+    background-image: url("../image/carousel/1.jpg");
+    height: 100vh;
+    height: auto;
+    max-width: 100%;
+}
+.banner-img2{
+    background-image: url("../image/carousel/2.jpg");
+    height: 100vh;
+}
+.banner-img3{
+    background-image: url("../image/carousel/3.jpg");
+    height: 100vh;
+}
